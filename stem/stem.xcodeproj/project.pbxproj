@@ -407,15 +407,6 @@
 		3CAFD8281D8A2C0C00488E0A /* ARAudioRecognizer.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CAFD8261D8A2C0C00488E0A /* ARAudioRecognizer.m */; };
 		3CAFD82B1D8A2CDA00488E0A /* EarthShader.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CAFD82A1D8A2CDA00488E0A /* EarthShader.m */; };
 		3CAFD82E1D8A2CEE00488E0A /* GSInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CAFD82D1D8A2CEE00488E0A /* GSInfo.m */; };
-		3CAFD88E1D8A33AA00488E0A /* AFHTTPRequestOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CAFD87C1D8A33AA00488E0A /* AFHTTPRequestOperation.m */; };
-		3CAFD88F1D8A33AA00488E0A /* AFHTTPRequestOperationManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CAFD87E1D8A33AA00488E0A /* AFHTTPRequestOperationManager.m */; };
-		3CAFD8901D8A33AA00488E0A /* AFHTTPSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CAFD8801D8A33AA00488E0A /* AFHTTPSessionManager.m */; };
-		3CAFD8911D8A33AA00488E0A /* AFNetworkReachabilityManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CAFD8831D8A33AA00488E0A /* AFNetworkReachabilityManager.m */; };
-		3CAFD8921D8A33AA00488E0A /* AFSecurityPolicy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CAFD8851D8A33AA00488E0A /* AFSecurityPolicy.m */; };
-		3CAFD8931D8A33AA00488E0A /* AFURLConnectionOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CAFD8871D8A33AA00488E0A /* AFURLConnectionOperation.m */; };
-		3CAFD8941D8A33AA00488E0A /* AFURLRequestSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CAFD8891D8A33AA00488E0A /* AFURLRequestSerialization.m */; };
-		3CAFD8951D8A33AA00488E0A /* AFURLResponseSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CAFD88B1D8A33AA00488E0A /* AFURLResponseSerialization.m */; };
-		3CAFD8961D8A33AA00488E0A /* AFURLSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CAFD88D1D8A33AA00488E0A /* AFURLSessionManager.m */; };
 		3CAFD89C1D8A35B300488E0A /* GSAlarm.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CAFD89B1D8A35B300488E0A /* GSAlarm.m */; };
 		3CAFD89F1D8A35D200488E0A /* GlobeView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CAFD89E1D8A35D200488E0A /* GlobeView.m */; };
 		3CAFD8A31D8A361400488E0A /* BGTouchDownGestureRecognizer.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CAFD8A21D8A361400488E0A /* BGTouchDownGestureRecognizer.m */; };
@@ -943,25 +934,6 @@
 		3CAFD82A1D8A2CDA00488E0A /* EarthShader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EarthShader.m; sourceTree = "<group>"; };
 		3CAFD82C1D8A2CEE00488E0A /* GSInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GSInfo.h; sourceTree = "<group>"; };
 		3CAFD82D1D8A2CEE00488E0A /* GSInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GSInfo.m; sourceTree = "<group>"; };
-		3CAFD87B1D8A33AA00488E0A /* AFHTTPRequestOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AFHTTPRequestOperation.h; path = AFNetworking/AFHTTPRequestOperation.h; sourceTree = SOURCE_ROOT; };
-		3CAFD87C1D8A33AA00488E0A /* AFHTTPRequestOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AFHTTPRequestOperation.m; path = AFNetworking/AFHTTPRequestOperation.m; sourceTree = SOURCE_ROOT; };
-		3CAFD87D1D8A33AA00488E0A /* AFHTTPRequestOperationManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AFHTTPRequestOperationManager.h; path = AFNetworking/AFHTTPRequestOperationManager.h; sourceTree = SOURCE_ROOT; };
-		3CAFD87E1D8A33AA00488E0A /* AFHTTPRequestOperationManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AFHTTPRequestOperationManager.m; path = AFNetworking/AFHTTPRequestOperationManager.m; sourceTree = SOURCE_ROOT; };
-		3CAFD87F1D8A33AA00488E0A /* AFHTTPSessionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AFHTTPSessionManager.h; path = AFNetworking/AFHTTPSessionManager.h; sourceTree = SOURCE_ROOT; };
-		3CAFD8801D8A33AA00488E0A /* AFHTTPSessionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AFHTTPSessionManager.m; path = AFNetworking/AFHTTPSessionManager.m; sourceTree = SOURCE_ROOT; };
-		3CAFD8811D8A33AA00488E0A /* AFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AFNetworking.h; path = AFNetworking/AFNetworking.h; sourceTree = SOURCE_ROOT; };
-		3CAFD8821D8A33AA00488E0A /* AFNetworkReachabilityManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AFNetworkReachabilityManager.h; path = AFNetworking/AFNetworkReachabilityManager.h; sourceTree = SOURCE_ROOT; };
-		3CAFD8831D8A33AA00488E0A /* AFNetworkReachabilityManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AFNetworkReachabilityManager.m; path = AFNetworking/AFNetworkReachabilityManager.m; sourceTree = SOURCE_ROOT; };
-		3CAFD8841D8A33AA00488E0A /* AFSecurityPolicy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AFSecurityPolicy.h; path = AFNetworking/AFSecurityPolicy.h; sourceTree = SOURCE_ROOT; };
-		3CAFD8851D8A33AA00488E0A /* AFSecurityPolicy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AFSecurityPolicy.m; path = AFNetworking/AFSecurityPolicy.m; sourceTree = SOURCE_ROOT; };
-		3CAFD8861D8A33AA00488E0A /* AFURLConnectionOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AFURLConnectionOperation.h; path = AFNetworking/AFURLConnectionOperation.h; sourceTree = SOURCE_ROOT; };
-		3CAFD8871D8A33AA00488E0A /* AFURLConnectionOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AFURLConnectionOperation.m; path = AFNetworking/AFURLConnectionOperation.m; sourceTree = SOURCE_ROOT; };
-		3CAFD8881D8A33AA00488E0A /* AFURLRequestSerialization.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AFURLRequestSerialization.h; path = AFNetworking/AFURLRequestSerialization.h; sourceTree = SOURCE_ROOT; };
-		3CAFD8891D8A33AA00488E0A /* AFURLRequestSerialization.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AFURLRequestSerialization.m; path = AFNetworking/AFURLRequestSerialization.m; sourceTree = SOURCE_ROOT; };
-		3CAFD88A1D8A33AA00488E0A /* AFURLResponseSerialization.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AFURLResponseSerialization.h; path = AFNetworking/AFURLResponseSerialization.h; sourceTree = SOURCE_ROOT; };
-		3CAFD88B1D8A33AA00488E0A /* AFURLResponseSerialization.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AFURLResponseSerialization.m; path = AFNetworking/AFURLResponseSerialization.m; sourceTree = SOURCE_ROOT; };
-		3CAFD88C1D8A33AA00488E0A /* AFURLSessionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AFURLSessionManager.h; path = AFNetworking/AFURLSessionManager.h; sourceTree = SOURCE_ROOT; };
-		3CAFD88D1D8A33AA00488E0A /* AFURLSessionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AFURLSessionManager.m; path = AFNetworking/AFURLSessionManager.m; sourceTree = SOURCE_ROOT; };
 		3CAFD89A1D8A35B300488E0A /* GSAlarm.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GSAlarm.h; sourceTree = "<group>"; };
 		3CAFD89B1D8A35B300488E0A /* GSAlarm.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GSAlarm.m; sourceTree = "<group>"; };
 		3CAFD89D1D8A35D200488E0A /* GlobeView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GlobeView.h; sourceTree = "<group>"; };
@@ -1511,7 +1483,6 @@
 			isa = PBXGroup;
 			children = (
 				3CAFD8D71D8B373E00488E0A /* Shaders */,
-				3CAFD82F1D8A2E9700488E0A /* AFNetworking */,
 				3CAFD7FB1D8A20CA00488E0A /* Resources */,
 				3CAFD80A1D8A2AD800488E0A /* AppDelegate.h */,
 				3CAFD80B1D8A2AD800488E0A /* AppDelegate.m */,
@@ -1632,32 +1603,6 @@
 				3CAFD8AE1D8B339100488E0A /* Backgrounds */,
 			);
 			name = Textures;
-			sourceTree = "<group>";
-		};
-		3CAFD82F1D8A2E9700488E0A /* AFNetworking */ = {
-			isa = PBXGroup;
-			children = (
-				3CAFD87B1D8A33AA00488E0A /* AFHTTPRequestOperation.h */,
-				3CAFD87C1D8A33AA00488E0A /* AFHTTPRequestOperation.m */,
-				3CAFD87D1D8A33AA00488E0A /* AFHTTPRequestOperationManager.h */,
-				3CAFD87E1D8A33AA00488E0A /* AFHTTPRequestOperationManager.m */,
-				3CAFD87F1D8A33AA00488E0A /* AFHTTPSessionManager.h */,
-				3CAFD8801D8A33AA00488E0A /* AFHTTPSessionManager.m */,
-				3CAFD8811D8A33AA00488E0A /* AFNetworking.h */,
-				3CAFD8821D8A33AA00488E0A /* AFNetworkReachabilityManager.h */,
-				3CAFD8831D8A33AA00488E0A /* AFNetworkReachabilityManager.m */,
-				3CAFD8841D8A33AA00488E0A /* AFSecurityPolicy.h */,
-				3CAFD8851D8A33AA00488E0A /* AFSecurityPolicy.m */,
-				3CAFD8861D8A33AA00488E0A /* AFURLConnectionOperation.h */,
-				3CAFD8871D8A33AA00488E0A /* AFURLConnectionOperation.m */,
-				3CAFD8881D8A33AA00488E0A /* AFURLRequestSerialization.h */,
-				3CAFD8891D8A33AA00488E0A /* AFURLRequestSerialization.m */,
-				3CAFD88A1D8A33AA00488E0A /* AFURLResponseSerialization.h */,
-				3CAFD88B1D8A33AA00488E0A /* AFURLResponseSerialization.m */,
-				3CAFD88C1D8A33AA00488E0A /* AFURLSessionManager.h */,
-				3CAFD88D1D8A33AA00488E0A /* AFURLSessionManager.m */,
-			);
-			name = AFNetworking;
 			sourceTree = "<group>";
 		};
 		3CAFD8AE1D8B339100488E0A /* Backgrounds */ = {
@@ -1908,6 +1853,7 @@
 				3C8C7A6D1D8A184500789B4D /* Frameworks */,
 				3C8C7A6E1D8A184500789B4D /* Resources */,
 				4178BA0CD903C3DE814682BC /* [CP] Copy Pods Resources */,
+				2440E2915A1BF5FE58DD6B13 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -2449,7 +2395,22 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		2440E2915A1BF5FE58DD6B13 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-STEMUITests/Pods-STEMUITests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		26BF83D4FFF0C68AED410EF4 /* [CP] Copy Pods Resources */ = {
@@ -2524,7 +2485,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
 			showEnvVarsInLog = 0;
 		};
 		ACB815F166484031B2B6BF92 /* [CP] Check Pods Manifest.lock */ = {
@@ -2539,7 +2500,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
 			showEnvVarsInLog = 0;
 		};
 		D5397E2EE0D21B55D8A58159 /* [CP] Embed Pods Frameworks */ = {
@@ -2572,30 +2533,21 @@
 				3CAFD80F1D8A2B3600488E0A /* GameSceneManager.m in Sources */,
 				3CAFD82B1D8A2CDA00488E0A /* EarthShader.m in Sources */,
 				3CAFD81B1D8A2BB400488E0A /* GSMantra.m in Sources */,
-				3CAFD8951D8A33AA00488E0A /* AFURLResponseSerialization.m in Sources */,
-				3CAFD8931D8A33AA00488E0A /* AFURLConnectionOperation.m in Sources */,
 				3CAFD8281D8A2C0C00488E0A /* ARAudioRecognizer.m in Sources */,
 				3CAFD8241D8A2BDD00488E0A /* Updater.m in Sources */,
-				3CAFD88F1D8A33AA00488E0A /* AFHTTPRequestOperationManager.m in Sources */,
 				3CAFD81E1D8A2BBF00488E0A /* GSMainMenu.m in Sources */,
-				3CAFD8921D8A33AA00488E0A /* AFSecurityPolicy.m in Sources */,
 				3CAFD8A91D8A364700488E0A /* GSTest.m in Sources */,
 				3CF34C7C1DAC182C003CBC90 /* UIImage+Trim.m in Sources */,
 				3CAFD89C1D8A35B300488E0A /* GSAlarm.m in Sources */,
 				3C8C7A571D8A184500789B4D /* ViewController.m in Sources */,
 				3CAFD8211D8A2BCC00488E0A /* GSShare.m in Sources */,
-				3CAFD8941D8A33AA00488E0A /* AFURLRequestSerialization.m in Sources */,
 				3CAFD8A31D8A361400488E0A /* BGTouchDownGestureRecognizer.m in Sources */,
-				3CAFD8911D8A33AA00488E0A /* AFNetworkReachabilityManager.m in Sources */,
 				3C8C0FB21DA333E7009E5D69 /* GSGraph.m in Sources */,
 				3CAFD8121D8A2B5500488E0A /* GSIntro.m in Sources */,
 				3C8C7A511D8A184500789B4D /* main.m in Sources */,
 				3CAFD82E1D8A2CEE00488E0A /* GSInfo.m in Sources */,
-				3CAFD88E1D8A33AA00488E0A /* AFHTTPRequestOperation.m in Sources */,
 				3CAFD8151D8A2B7D00488E0A /* GameScene.m in Sources */,
-				3CAFD8901D8A33AA00488E0A /* AFHTTPSessionManager.m in Sources */,
 				3CAFD80C1D8A2AD800488E0A /* AppDelegate.m in Sources */,
-				3CAFD8961D8A33AA00488E0A /* AFURLSessionManager.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2733,10 +2685,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				DEVELOPMENT_TEAM = 2EUG2LMRWV;
-				FRAMEWORK_SEARCH_PATHS = "";
-				HEADER_SEARCH_PATHS = "";
+				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
+				HEADER_SEARCH_PATHS = "$(inherited)";
 				INFOPLIST_FILE = STEM/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 9;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = "$(inherited)";
 				PRODUCT_BUNDLE_IDENTIFIER = com.stem.stemapp;
@@ -2754,10 +2706,10 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				DEVELOPMENT_TEAM = 2EUG2LMRWV;
-				FRAMEWORK_SEARCH_PATHS = "";
-				HEADER_SEARCH_PATHS = "";
+				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
+				HEADER_SEARCH_PATHS = "$(inherited)";
 				INFOPLIST_FILE = STEM/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 9;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = "$(inherited)";
 				PRODUCT_BUNDLE_IDENTIFIER = com.stem.stemapp;

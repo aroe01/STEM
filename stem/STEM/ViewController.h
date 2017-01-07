@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <WhirlyGlobeComponent.h>
+#import <WhirlyGlobe/MaplyComponent.h>
 
 @interface ViewController : UIViewController
 

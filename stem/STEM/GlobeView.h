@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import <WhirlyGlobeComponent.h>
+#import <WhirlyGlobe/MaplyComponent.h>
 #import <CoreLocation/CoreLocation.h>
 #import "AFHTTPRequestOperation.h"
 #import "GameSceneManager.h"

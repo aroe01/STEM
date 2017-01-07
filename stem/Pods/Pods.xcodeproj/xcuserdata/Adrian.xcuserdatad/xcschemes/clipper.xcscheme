@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'D99BD4743B91B59B4720289624ACAF95'
+               BlueprintIdentifier = '2FADD979DD0D136E0EC9525118B92287'
                BlueprintName = 'clipper'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'clipper.framework'>

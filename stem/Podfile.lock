@@ -36,7 +36,7 @@ PODS:
     - FLKAutoLayout (~> 0.2)
   - proj4 (4.8.0)
   - SMCalloutView (2.1.5)
-  - SwiftyJSON (3.0.0)
+  - SwiftyJSON (3.1.3)
   - tinyxml (2.1.0)
   - WhirlyGlobe (2.4):
     - WhirlyGlobe/MaplyComponent (= 2.4)
@@ -75,7 +75,7 @@ PODS:
 DEPENDENCIES:
   - AFNetworking (~> 2.4)
   - ORStackView (~> 3.0)
-  - SwiftyJSON (~> 3.0.0)
+  - SwiftyJSON (~> 3.0)
   - WhirlyGlobe (~> 2.4)
 
 SPEC CHECKSUMS:
@@ -89,10 +89,10 @@ SPEC CHECKSUMS:
   ORStackView: a1bb52748cd0ae29891c140baf22ff8972fb363c
   proj4: 234525105d05a33b2ae9a90a6fe3935f7a246f7e
   SMCalloutView: 5c0ee363dc8e7204b2fda17dfad38c93e9e23481
-  SwiftyJSON: f57b2b44bc166617372d1c70773591fe9f0f5fd4
+  SwiftyJSON: 38a8ea2006779c0fc4c310cb2ee8195327740faf
   tinyxml: 41d718babd106ac5d39d4e98b43c835d3b9080d8
   WhirlyGlobe: 2849f458220be42d92d814ba04377586cadbf7f1
 
-PODFILE CHECKSUM: 743052fccf0ead4b6fe9bcd40a487ba7da51b6bb
+PODFILE CHECKSUM: f20140f7531da3ac62e365b27e7059427482b24c
 
-COCOAPODS: 1.0.1
+COCOAPODS: 1.1.1

@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "WhirlyGlobeComponent.h"
+#import <WhirlyGlobe/WhirlyGlobeComponent.h>
 
 typedef struct EMUserStruct {
     uint ID;

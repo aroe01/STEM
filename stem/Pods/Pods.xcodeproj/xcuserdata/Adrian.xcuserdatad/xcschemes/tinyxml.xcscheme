@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'E925B992682D958D30DEB3D7536F8E1D'
+               BlueprintIdentifier = '9CC84EA085C563815964ECEA1726A7FF'
                BlueprintName = 'tinyxml'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'tinyxml.framework'>

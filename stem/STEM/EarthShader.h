@@ -7,7 +7,8 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <MaplyComponent.h>
+#import <WhirlyGlobe/MaplyComponent.h>
+
 
 @interface EarthShader : NSObject
     + (NSString *)setupEarthShader:(MaplyBaseViewController *)viewC;
