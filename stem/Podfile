@@ -1,0 +1,21 @@
+# Uncomment this line to define a global platform for your project
+ platform :ios, '9.0'
+
+target 'STEM' do
+   use_frameworks!
+  pod 'AFNetworking', '~> 2.4'
+  pod 'ORStackView', '~> 3.0'
+  pod 'SwiftyJSON', '~> 3.0.0'
+  pod 'WhirlyGlobe', '~> 2.4'
+
+  # Pods for STEM
+end
+  target 'STEMTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'STEMUITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
